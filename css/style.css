@@ -234,7 +234,7 @@ body {
 /*MEDIA===============*/
 /*====================*/
 
-@media (min-width: 992px) {
+@media (min-width: 62em) {
 
     .header-container {
         order: 1;
