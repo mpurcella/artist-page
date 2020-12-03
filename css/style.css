@@ -299,6 +299,7 @@ body {
         display: flex;
         align-items: center;
     }
+    
     .social {
         order: 1;
     }
