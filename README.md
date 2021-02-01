@@ -1,2 +1,3 @@
-# simple-artist-page
-Just a simple page
+# artist-page
+
+Just a simple page.
